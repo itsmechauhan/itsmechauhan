@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java and DSA😉**
 
-- 👯 I’m collaborating with **My college friends to best the best future software developers😎✌️**
+- 👯 I’m collaborating with **My college friends to be the best future software developers😎✌️**
 
 - ⚡ Fun fact **I think I am funny😅 but None of my Friends found me in a funny mood anytime😂😂**
 
