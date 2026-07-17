@@ -4,7 +4,9 @@
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmechauhan&label=Profile%20views&color=0e75b6&style=flat" alt="itsmechauhan" /> </p>
 
-- 🔭 I’m currently Studying At **Graphic Era Hill University**
+- ⚡ I’m a **Full Stack Developer😎**
+
+- 🔭 I’m have completed my bachelor's from **Graphic Era Hill University**
 
 - 🌱 I’m currently learning **Java and DSA😉**
 
